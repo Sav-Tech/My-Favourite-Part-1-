@@ -1,0 +1,19 @@
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+}
+
+body {
+    text-align: center;
+    background: cyan;
+    background-repeat: no-repeat;
+}
+
+p {
+    font-size: 17px;
+}
+
+h1 {
+    text-shadow: 2px 2px
+}
